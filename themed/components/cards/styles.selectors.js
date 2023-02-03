@@ -1,0 +1,43 @@
+
+    // es-module interop with Babel and Typescript
+    Object.defineProperty(exports, "__esModule", { value: true });
+    module.exports.default = {
+  "card-inner": "awsui_card-inner_p8a6i_16g55_97",
+  "root": "awsui_root_p8a6i_16g55_117",
+  "header-variant-full-page": "awsui_header-variant-full-page_p8a6i_16g55_137",
+  "header-refresh": "awsui_header-refresh_p8a6i_16g55_137",
+  "list": "awsui_list_p8a6i_16g55_153",
+  "list-grid-1": "awsui_list-grid-1_p8a6i_16g55_161",
+  "card": "awsui_card_p8a6i_16g55_97",
+  "list-grid-2": "awsui_list-grid-2_p8a6i_16g55_164",
+  "list-grid-3": "awsui_list-grid-3_p8a6i_16g55_167",
+  "list-grid-4": "awsui_list-grid-4_p8a6i_16g55_170",
+  "list-grid-5": "awsui_list-grid-5_p8a6i_16g55_173",
+  "list-grid-6": "awsui_list-grid-6_p8a6i_16g55_176",
+  "list-grid-7": "awsui_list-grid-7_p8a6i_16g55_179",
+  "list-grid-8": "awsui_list-grid-8_p8a6i_16g55_182",
+  "list-grid-9": "awsui_list-grid-9_p8a6i_16g55_185",
+  "list-grid-10": "awsui_list-grid-10_p8a6i_16g55_188",
+  "list-grid-11": "awsui_list-grid-11_p8a6i_16g55_191",
+  "list-grid-12": "awsui_list-grid-12_p8a6i_16g55_194",
+  "list-grid-13": "awsui_list-grid-13_p8a6i_16g55_197",
+  "list-grid-14": "awsui_list-grid-14_p8a6i_16g55_200",
+  "list-grid-15": "awsui_list-grid-15_p8a6i_16g55_203",
+  "list-grid-16": "awsui_list-grid-16_p8a6i_16g55_206",
+  "list-grid-17": "awsui_list-grid-17_p8a6i_16g55_209",
+  "list-grid-18": "awsui_list-grid-18_p8a6i_16g55_212",
+  "list-grid-19": "awsui_list-grid-19_p8a6i_16g55_215",
+  "list-grid-20": "awsui_list-grid-20_p8a6i_16g55_218",
+  "selection-control": "awsui_selection-control_p8a6i_16g55_222",
+  "loading": "awsui_loading_p8a6i_16g55_231",
+  "empty": "awsui_empty_p8a6i_16g55_232",
+  "has-header": "awsui_has-header_p8a6i_16g55_239",
+  "card-header": "awsui_card-header_p8a6i_16g55_276",
+  "card-header-inner": "awsui_card-header-inner_p8a6i_16g55_284",
+  "card-selectable": "awsui_card-selectable_p8a6i_16g55_288",
+  "card-selected": "awsui_card-selected_p8a6i_16g55_291",
+  "section": "awsui_section_p8a6i_16g55_300",
+  "section-header": "awsui_section-header_p8a6i_16g55_306",
+  "section-content": "awsui_section-content_p8a6i_16g55_312"
+};
+  
